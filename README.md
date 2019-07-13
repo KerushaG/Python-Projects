@@ -22,3 +22,5 @@ The user plays lottery against the programs randomly generated numbers, and base
 ## Sickle Cell Disease Detector
 This program reads a DNA sequence and returns the SLC code by making use of a function.
 
+## Tools I used
+[Python & Idle](https://www.python.org/downloads/) - programming language and IDE
